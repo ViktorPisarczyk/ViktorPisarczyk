@@ -6,7 +6,10 @@ During an internship at **IBM CIC**, I deepened my skills in **React, TypeScript
 
 ---
 
-## 🚀 Featured Project: Levigram <img src="./icon-192x192.png" alt="Levigram Badge" width="32" />
+## 🚀 Featured Project: Levigram <span style="vertical-align: middle;">
+
+  <img src="./icon-192x192.png" alt="Levigram Badge" width="28" style="border-radius: 6px;" />
+</span>
 
 <p align="center">
   <img src="./Logo_transparent.png" alt="Levigram Logo" width="200" />
