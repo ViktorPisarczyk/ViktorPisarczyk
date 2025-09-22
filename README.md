@@ -6,29 +6,24 @@ During an internship at **IBM CIC**, I deepened my skills in **React, TypeScript
 
 ---
 
-## 🚀 Featured Project: Levigram <span style="vertical-align: middle;">
-
-  <img src="./icon-192x192.png" alt="Levigram Badge" width="28" style="border-radius: 6px;" />
-</span>
+## 🚀 Featured Project: Levigram
 
 <p align="center">
   <img src="./Logo_transparent.png" alt="Levigram Logo" width="200" />
 </p>
 
-Levigram is a **private social media app** I built for family and close friends.  
+Levigram is a private social media web app I built especially for my son, so that our family and friends can share personal content in a safe and private environment.  
 It’s designed to be simple, mobile-friendly, and optimized as a **PWA**.  
-Users can create posts, like, comment, and receive **real-time push notifications**.
+Users can **create posts**, **like**, **comment**, and receive **real-time push notifications**.
+
+👉 [See full README with screenshots](https://github.com/ViktorPisarczyk/Levigram_FE#readme)
 
 🔗 **Repositories**
 
 - [Frontend (React + Vite)](https://github.com/ViktorPisarczyk/Levigram_FE)
 - [Backend (Node.js + Express + MongoDB)](https://github.com/ViktorPisarczyk/Levigram_BE)
 
-👉 [See full README with screenshots](https://github.com/ViktorPisarczyk/Levigram_FE#readme)
-
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
