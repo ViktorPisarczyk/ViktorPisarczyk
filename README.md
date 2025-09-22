@@ -13,7 +13,7 @@ During an internship at **IBM CIC**, I deepened my skills in **React, TypeScript
 </p>
 
 Levigram is a private social media web app I built especially for my son, so that our family and friends can share personal content in a safe and private environment.  
-It’s designed to be simple, mobile-friendly, and optimized as a **PWA**.  
+It’s designed to be simple, mobile-friendly, and optimized as a **Progressive Web App (PWA)**.  
 Users can **create posts**, **like**, **comment**, and receive **real-time push notifications**.
 
 👉 [See full README with screenshots](https://github.com/ViktorPisarczyk/Levigram_FE#readme)
@@ -35,6 +35,7 @@ Users can **create posts**, **like**, **comment**, and receive **real-time push 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Lit](https://img.shields.io/badge/-Lit-324FFF?logo=lit&logoColor=white&style=for-the-badge)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
